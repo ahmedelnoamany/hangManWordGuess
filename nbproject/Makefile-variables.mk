@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=hangman
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/hangman
+CND_ARTIFACT_NAME_Debug=hangmanwordguess
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/hangmanwordguess
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=hangman.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/hangman.tar
+CND_PACKAGE_NAME_Debug=hangmanwordguess.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/hangmanwordguess.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=hangman
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/hangman
+CND_ARTIFACT_NAME_Release=hangmanwordguess
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/hangmanwordguess
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=hangman.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/hangman.tar
+CND_PACKAGE_NAME_Release=hangmanwordguess.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/hangmanwordguess.tar
 #
 # include compiler specific variables
 #
